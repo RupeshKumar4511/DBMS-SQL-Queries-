@@ -1,11 +1,14 @@
 # DBMS 
-data model : It describes the structure of the database , operations and constraints.
+**Data model** : It is the concept of tools which are developed to describes the structure of the database , operations and constraints on the data in database.
 <br>
-valid state : It is a state that satisfy the constraints and structure of the database.
+By **structure of a database** we mean the data types, relationships,and constraints that apply to the data.
 <br>
-intial database state : Data stored at first time into the system.
+**valid state** : It is a state that satisfy the constraints and structure of the database.
 <br>
-schema is also called intension.
+**intial database state**: Data stored at first time into the system.
 <br>
-state is also called extension.
+schema is also called **intension**.
 <br>
+state is also called **extension**.
+<br>
+

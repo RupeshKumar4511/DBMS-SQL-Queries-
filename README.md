@@ -40,12 +40,13 @@ database state is also called populated table.
 <br>
 2. It is used when the value is not applicable for that attribute in a table.
 <br>
+
 # ER Model Constraints :
 1. Key Integrity constraints
 2. Entity Integrity constraints
 3. Refrential Entity Integrity constraints
 
-# Note :
-when we make relationship attributes/relationship set in an ER diagram then In the ER model, it becomes new table having primary key of both the tables in which relationships establishes.
+# Note 
+when we make relationship attributes/relationship setin an ER diagram then to convert it into the ER model, we have make a new table for the relationship set which have primary key of both the tables(which are entities in ER diagram) in which relationships establishes.
 
 

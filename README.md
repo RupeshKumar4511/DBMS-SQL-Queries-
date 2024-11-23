@@ -28,7 +28,7 @@ ex=> Teacher Set mentors the students set. Here from teacher set, every teachers
 **(2) Partial Participation :** Partial participation allows entities of an entity type to optionally participate in a relationship set. It is represented by single line while showing the relationship.
 
 
-**Partial Key** There is atleast an attribute in the weak attrubute which acts as a primary key which is called Partial key. It is represented by dashed line in the oval .
+**Partial Key** There is atleast an attribute in the weak entity which acts as a primary key which is called Partial key. It is represented by dashed line in the oval .
 
 <br>
 
@@ -44,9 +44,10 @@ database state is also called populated table.
 # ER Model Constraints :
 1. Key Integrity constraints
 2. Entity Integrity constraints
-3. Refrential Entity Integrity constraints
+3. Refrential Integrity constraints
+4. Domain Integrity constraints
 
 # Note 
-when we make relationship attributes/relationship setin an ER diagram then to convert it into the ER model, we have make a new table for the relationship set which have primary key of both the tables(which are entities in ER diagram) in which relationships establishes.
+when we make relationship attributes/relationship set in an ER diagram then to convert it into the ER model, we have make a new table for the relationship set which have primary key of both the tables(which are entities in ER diagram) in which relationships establishes.
 
 
